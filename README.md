@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cyberghost546
 - 👀 I’m interested in cybersecurity/programming/network
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning software developer
 - 💞️ I’m looking to collaborate on everthing about security
 - 📫 How to reach me via my email address
 
