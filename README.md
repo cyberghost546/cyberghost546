@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyberghost546
+- 👋 Hi, I’m @christopher
 - 👀 I’m interested in cybersecurity/programming/network
 - 🌱 I’m currently learning software developer
 - 💞️ I’m looking to collaborate on everthing about security
